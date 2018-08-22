@@ -1,0 +1,11 @@
+/Users/Cole/Documents/CarWebsite/bin/Debug/netcoreapp2.0/CarWebsite.deps.json
+/Users/Cole/Documents/CarWebsite/bin/Debug/netcoreapp2.0/CarWebsite.runtimeconfig.json
+/Users/Cole/Documents/CarWebsite/bin/Debug/netcoreapp2.0/CarWebsite.runtimeconfig.dev.json
+/Users/Cole/Documents/CarWebsite/bin/Debug/netcoreapp2.0/CarWebsite.dll
+/Users/Cole/Documents/CarWebsite/bin/Debug/netcoreapp2.0/CarWebsite.pdb
+/Users/Cole/Documents/CarWebsite/obj/Debug/netcoreapp2.0/CarWebsite.csprojResolveAssemblyReference.cache
+/Users/Cole/Documents/CarWebsite/obj/Debug/netcoreapp2.0/CarWebsite.csproj.CoreCompileInputs.cache
+/Users/Cole/Documents/CarWebsite/obj/Debug/netcoreapp2.0/CarWebsite.AssemblyInfoInputs.cache
+/Users/Cole/Documents/CarWebsite/obj/Debug/netcoreapp2.0/CarWebsite.AssemblyInfo.cs
+/Users/Cole/Documents/CarWebsite/obj/Debug/netcoreapp2.0/CarWebsite.dll
+/Users/Cole/Documents/CarWebsite/obj/Debug/netcoreapp2.0/CarWebsite.pdb
